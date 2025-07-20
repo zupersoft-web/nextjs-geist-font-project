@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Mapping Driver Navigation</string>
+    <string name="app_subtitle">Street View Route Coverage System</string>
+    <string name="app_logo">App Logo</string>
+    
+    <!-- Main Activity -->
+    <string name="start_mapping">Start Mapping</string>
+    <string name="view_routes">View Routes</string>
+    <string name="settings">Settings</string>
+    <string name="gps_status">GPS Status:</string>
+    
+    <!-- Maps Activity -->
+    <string name="draw_route">Draw Route</string>
+    <string name="start_navigation">Start Navigation</string>
+    <string name="stop_navigation">Stop Navigation</string>
+    <string name="clear_route">Clear Route</string>
+    <string name="save_route">Save Route</string>
+    <string name="load_route">Load Route</string>
+    <string name="drop_pin">Drop Pin</string>
+    <string name="route_blocked">Route Blocked</string>
+    <string name="no_access">No Access</string>
+    <string name="construction">Construction</string>
+    <string name="other">Other</string>
+    
+    <!-- Navigation -->
+    <string name="navigation_started">Navigation Started</string>
+    <string name="navigation_stopped">Navigation Stopped</string>
+    <string name="route_completed">Route Completed!</string>
+    <string name="coverage_progress">Coverage: %1$d%%</string>
+    <string name="distance_remaining">Distance Remaining: %1$.1f km</string>
+    <string name="estimated_time">ETA: %1$s</string>
+    
+    <!-- Route Management -->
+    <string name="route_saved">Route saved successfully</string>
+    <string name="route_loaded">Route loaded successfully</string>
+    <string name="route_name">Route Name</string>
+    <string name="enter_route_name">Enter route name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    
+    <!-- Permissions -->
+    <string name="location_permission_required">Location permission is required for mapping</string>
+    <string name="background_location_permission">Background location access is needed for continuous tracking</string>
+    <string name="storage_permission_required">Storage permission is needed to save routes</string>
+    
+    <!-- GPS Status -->
+    <string name="gps_enabled">GPS Enabled</string>
+    <string name="gps_disabled">GPS Disabled</string>
+    <string name="gps_searching">Searching for GPS</string>
+    <string name="gps_accuracy_poor">Poor GPS Accuracy</string>
+    <string name="gps_accuracy_good">Good GPS Accuracy</string>
+    
+    <!-- Notifications -->
+    <string name="tracking_notification_title">Route Tracking Active</string>
+    <string name="tracking_notification_text">Recording your route coverage</string>
+    <string name="navigation_notification_title">Navigation Active</string>
+    <string name="navigation_notification_text">Following route guidance</string>
+    
+    <!-- Error Messages -->
+    <string name="error_no_gps">GPS is not available on this device</string>
+    <string name="error_location_disabled">Please enable location services</string>
+    <string name="error_no_route">No route selected</string>
+    <string name="error_route_load_failed">Failed to load route</string>
+    <string name="error_route_save_failed">Failed to save route</string>
+    <string name="error_maps_not_available">Google Maps is not available</string>
+    
+    <!-- Settings -->
+    <string name="tracking_accuracy">Tracking Accuracy</string>
+    <string name="high_accuracy">High Accuracy</string>
+    <string name="balanced_power">Balanced Power</string>
+    <string name="low_power">Low Power</string>
+    <string name="tracking_interval">Tracking Interval</string>
+    <string name="export_data">Export Data</string>
+    <string name="import_data">Import Data</string>
+    <string name="clear_all_data">Clear All Data</string>
+    
+    <!-- Units -->
+    <string name="km">km</string>
+    <string name="meters">m</string>
+    <string name="minutes">min</string>
+    <string name="hours">h</string>
+</resources>
